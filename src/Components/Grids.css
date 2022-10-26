@@ -1,0 +1,47 @@
+.imgs{
+
+
+    display: flex;
+gap:1rem;
+
+
+    
+}
+.imgs>div>img{
+    margin-left: -5.6px;   /* Horizontal Space */
+    margin-top: 30px;  /* Vertical Space */
+
+    height: 100px;
+    
+}
+.imgs
+.imgs>div{
+    justify-content: center;
+    align-items: center;
+
+    gap: 2rem;
+    display: flex;
+
+    flex-direction: column;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Fascinate+Inline&family=Fredoka+One&family=Poppins:wght@500&family=Press+Start+2P&family=Tai+Heritage+Pro&display=swap');
+.card-title{
+
+
+    margin-left: 2rem;
+    font-weight: bold;
+    
+}
+.imgs>div>span{
+
+    font-size: small;
+
+}
+
+.row>div{
+
+
+
+    margin-top: -8rem;
+}

@@ -1,0 +1,76 @@
+
+
+
+
+.logo{
+
+    color: black;
+    height: 200px;
+        margin-top: 5rem;
+    }
+    
+    .signin{
+    
+       
+    display: flex;
+    flex-direction: column;
+    border-style: groove;
+    border-radius: 5px;
+    height: 20rem;
+    width: 24rem;
+    }
+.login{
+
+justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.btns{
+border-radius: 5px;
+
+    background:linear-gradient(  #f0c14b,transparent);
+}
+
+.btns:hover{
+
+    background: #f0c14b;
+}
+
+.amzn::after{
+
+    content:"--------";
+}
+
+.amzn::before{
+
+
+    content: "---------";
+}
+
+.btnss{
+
+
+    border-radius: 5px;
+}
+
+.btnss:hover{
+border-radius: 20px;
+
+    background: #f0c14b;
+}
+
+@media screen and (max-width:1400px){
+
+
+
+
+    .login_top{
+
+
+width: 100px;
+
+
+    }
+    
+}

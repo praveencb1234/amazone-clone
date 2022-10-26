@@ -1,0 +1,17 @@
+.a{
+
+
+    color: blue;
+}
+
+
+
+.a:hover{
+
+
+    cursor: pointer;
+}
+body{
+
+    cursor: pointer;
+}

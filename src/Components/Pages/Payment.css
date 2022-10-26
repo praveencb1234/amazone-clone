@@ -1,0 +1,62 @@
+
+
+.payment{
+position: relative;
+
+top: 0;}
+
+.payment_data{
+
+
+position: absolute;
+top: 14rem;}
+.payment_address{
+align-items: center;
+display: flex;
+flex-direction: column;
+border-style: groove;
+border-radius: 5px;
+
+height: 150px;
+width: 200px;
+    position:fixed;
+right: 3rem;
+    top: 8rem;
+}
+
+.payment_address>span{
+
+
+    max-width:fit-content;
+}
+
+.payment_method{
+background-image: url(https://freepngimg.com/thumb/atm_card/4-2-atm-card-free-download-png.png);
+background-position: 16rem;
+background-size: cover;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border-style: groove;
+    border-radius: 5px;
+    
+    height: 150px;
+    width: 240px;
+    position:fixed;
+right: 0.5rem;
+    top: 18rem;
+}
+.atm_card{
+
+    display: flex;
+position: absolute;}
+
+.date{
+
+width: 60px;
+height: 26px;
+position: absolute;
+right: -6.3rem;
+background-color: rgb(225, 217, 217);
+
+border-radius: 5px;}

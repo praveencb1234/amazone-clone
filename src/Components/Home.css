@@ -1,0 +1,39 @@
+.home_container{
+    position: absolute;
+    top: 0;
+    }
+    
+
+    .grids{
+
+
+        display: flex;
+    }
+
+  .container-fluid{
+display: flex;
+margin-left: 1rem;
+gap: 0.5rem;
+margin-top: -12rem;    display: flex;
+  }
+
+  .product{
+
+
+    margin-top: -9rem;
+  }
+
+  @media(max-width
+:500px){
+
+.container-fluid{
+
+margin-top: 14rem;
+  display: flex;
+  flex-direction: column;
+  margin-left: -0.1rem;
+}
+.home_img{
+
+display: none;}
+}

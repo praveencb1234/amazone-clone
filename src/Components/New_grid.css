@@ -1,0 +1,28 @@
+.grid_container{
+
+gap: 1rem;
+display: flex;
+flex-direction: column;
+margin-top: 1rem;
+max-width: 370px;
+}
+
+.grid_container>div>img{
+
+
+    margin-left: 1rem;
+
+    height: 100px;
+}
+
+.grid{
+
+position: relative;
+top: -9rem;
+    display: flex;
+    border-style: groove;
+    border-radius: 10px;
+    height: 500px;
+    width:360px ;
+    background:white;
+}

@@ -1,0 +1,28 @@
+.product-top{
+
+display: flex;
+gap: 1rem;
+margin-top: 1rem;
+
+}
+.product-card{
+
+
+    display: flex;
+    gap: 8rem;
+    justify-content: space-evenly;
+
+}
+
+@media(max-width:500px){
+
+
+.product-card{
+
+
+    display: flex;
+    flex-direction: column;
+
+margin-left:3rem;}
+
+}
